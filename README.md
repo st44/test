@@ -3,6 +3,9 @@ test 1
 
 
 hogehoge
+```
+python3 hogehoge.py
+```
 
 ## test 2
 test 2
